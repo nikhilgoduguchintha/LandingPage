@@ -1,4 +1,4 @@
 this is a landing page of a mockup company manage. Here This is a HTML and CSS only website with slight JS for simple functionality.
-Eventhough the website is not needed to scalable but I have coded in way that is future proof by utilising CSS variables.
+Eventhough the website is not needed to scalae up but I have coded in way that is future proof by utilising CSS variables.
 This website is developed in a way that the maintanance and refactoring of this website is made easy.
 Website is a responsive for both mobile and for the desktop by leveraging the flexibility of the media queries in CSS.
